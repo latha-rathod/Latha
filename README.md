@@ -3,15 +3,19 @@
 ###
 
 <p align="left">My name is latha... and I'm a  Software Developer..., from Inia ....</p>
+
 ###
 
 <h2 align="left">About me</h2>
+
 ###
 
 <p align="left">Hi there! 👋 I’m Latha Rathod, a passionate CSE student from Hyderabad.<br>I’m currently on my journey to become a Software Engineer at Google Hyderabad 🚀<br><br>I love learning about Java, Frontend Development, and Data Structures & Algorithms, and I enjoy creating simple, clean, and creative projects while improving my coding skills every day 🌱<br><br><br>---<br><br>🎯 My Goals<br><br>Master Java, JavaScript, HTML, SQL, and DSA<br><br>Build real-world projects and contribute to open-source<br><br>Join Google Hyderabad as a software engineer 💻<br><br>Grow into a confident and independent tech professional ✨<br><br><br><br>---<br><br>🌱 Currently Learning<br><br>Frontend Development (HTML, CSS, JavaScript)<br><br>React Framework basics ⚛<br><br>Java programming and OOPs concepts ☕<br><br>Data Structures & Algorithms (daily practice)<br><br><br><br>---<br><br>⚡ Fun Fact<br><br>I believe consistency turns dreams into achievements 💪<br>And yes — I debug my life the same way I debug my code 😄</p>
+
 ###
 
-<h2 align="left">I code with</h2
+<h2 align="left">I code with</h2>
+
 ###
 
 <div align="left">
